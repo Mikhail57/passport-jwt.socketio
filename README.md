@@ -1,7 +1,7 @@
 # passport-jwt.socketio
 
-[![Build Status](https://api.travis-ci.org/erreina/passport-jwt.socketio.svg?branch=master)](https://travis-ci.org/erreina/passport-jwt.socketio)
-[![npm dependency status](https://david-dm.org/erreina/passport-jwt.socketio.svg)](https://david-dm.org/erreina/passport-jwt.socketio)
+[![Build Status](https://api.travis-ci.org/erreina/passport-jwt.socketio.svg?branch=master)](https://travis-ci.org/Mikhail57/passport-jwt.socketio)
+[![npm dependency status](https://david-dm.org/erreina/passport-jwt.socketio.svg)](https://david-dm.org/Mikhail57/passport-jwt.socketio)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A [Socket.IO](https://socket.io/) middleware for authenticating with a [JSON Web Token](http://jwt.io) based on [passport-jwt](https://github.com/themikenicholson/passport-jwt).
